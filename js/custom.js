@@ -90,7 +90,7 @@ $(document).ready(function () {
 
     var win = $(window),
         foo = $('#typer');
-    foo.typer(['<h1><span class="iq-font-purple">Web</span> Developer</h1>', '<h1>Web <span class="iq-font-purple">Designer</span></h1>', '<h1><span class="iq-font-purple">Frontend</span> Developer</h1>']);
+    foo.typer(['<h1><span class="iq-font-purple">FullStack</span> Developer</h1>', '<h1>Game <span class="iq-font-purple">Developer</span></h1>', '<h1><span class="iq-font-purple">Frontend</span> Developer</h1>']);
 
 
     $('.owl-carousel').each(function () {
